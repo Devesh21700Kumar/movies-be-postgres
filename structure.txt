@@ -1,0 +1,24 @@
+my-pern-app/
+  ├── client/
+  │   ├── public/
+  │   │   ├── index.html
+  │   │   └── ...
+  │   ├── src/
+  │   │   ├── components/
+  │   │   │   ├── MovieList.js
+  │   │   │   ├── MovieRating.js
+  │   │   │   └── ...
+  │   │   ├── App.js
+  │   │   ├── index.js
+  │   │   └── ...
+  │   ├── package.json
+  └── server/
+      ├── index.js
+      ├── db.js
+      ├── routes/
+      │   ├── movies.js
+      │   ├── ratings.js
+      │   └── ...
+      ├── package.json
+  ├── knexfile.js
+  ├── package.json
